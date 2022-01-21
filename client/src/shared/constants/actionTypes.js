@@ -1,0 +1,39 @@
+export const CREATE = 'CREATE';
+export const UPDATE = 'UPDATE';
+export const DELETE = 'DELETE';
+export const FETCH_ALL = 'FETCH_ALL';
+export const FETCH_BY_SEARCH = 'FETCH_BY_SEARCH';
+export const FETCH_POST = 'FETCH_POST';
+export const LIKE = 'LIKE';
+export const COMMENT = 'COMMENT';
+export const END_LOADING = 'END_LOADING';
+export const START_LOADING = 'START_LOADING';
+export const FETCH_BY_CREATOR = 'FETCH_BY_CREATOR';
+
+export const START_LOADING_BOOKS = 'START_LOADING_BOOKS';
+export const END_LOADING_BOOKS = 'END_LOADING_BOOKS';
+export const FETCH_ALL_BOOKS = 'FETCH_ALL_BOOKS';
+export const FETCH_BOOKS_BY_SEARCH = 'FETCH_BOOKS_BY_SEARCH';
+export const FETCH_BOOKS_BY_DEPARTMENT = 'FETCH_BOOKS_BY_DEPARTMENT';
+export const FETCH_BOOK = 'FETCH_BOOK';
+export const LIKE_BOOK = 'LIKE_BOOK';
+export const COMMENT_BOOK = 'COMMENT_BOOK';
+export const CREATE_BOOK = 'CREATE_BOOK';
+export const UPDATE_BOOK = 'UPDATE_BOOK';
+export const DELETE_BOOK = 'DELETE_BOOK';
+
+export const START_LOADING_COURSES = 'START_LOADING_COURSES';
+export const END_LOADING_COURSES = 'END_LOADING_COURSES';
+export const FETCH_ALL_COURSES = 'FETCH_ALL_COURSES';
+export const FETCH_COURSES_BY_SEARCH = 'FETCH_COURSES_BY_SEARCH';
+export const FETCH_COURSES_BY_DEPARTMENT = 'FETCH_COURSES_BY_DEPARTMENT';
+export const FETCH_COURSE = 'FETCH_COURSE';
+export const LIKE_COURSE = 'LIKE_COURSE';
+export const COMMENT_COURSE = 'COMMENT_COURSE';
+export const CREATE_COURSE = 'CREATE_COURSE';
+export const UPDATE_COURSE = 'UPDATE_COURSE';
+export const DELETE_COURSE = 'DELETE_COURSE';
+
+export const AUTH = 'AUTH';
+export const UPDATE_NICKNAME = 'UPDATE_NICKNAME';
+export const LOGOUT = 'LOGOUT';
