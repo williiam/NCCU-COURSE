@@ -1,6 +1,6 @@
 ## 政大課程評價網
-110/1 nccu DBMS final project
-## DEMO
+110/1 NCCU DBMS final project
+#### DEMO
 https://course-nccu.com
 
 ##### 主要功能：
