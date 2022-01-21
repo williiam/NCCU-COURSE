@@ -1,6 +1,8 @@
 ## 政大課程評價網
 110/1 nccu DBMS final project
- 
+## DEMO
+https://course-nccu.com
+
 ##### 主要功能：
 
 1. 瀏覽/上傳/修改/刪除課程評價跟課程資源
