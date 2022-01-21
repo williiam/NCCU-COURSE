@@ -1,7 +1,7 @@
 import bcrypt from "bcryptjs";
 import jwt from "jsonwebtoken";
 import { OAuth2Client } from 'google-auth-library';
-const client = new OAuth2Client('22551978498-3d7pfatc0km7mpm8t6glfuu4ev2jld3a.apps.googleusercontent.com');
+const client = new OAuth2Client('YOURACCOUNT');
 
 import UserModal from "../models/user.js";
 
