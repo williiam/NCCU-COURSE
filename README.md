@@ -3,7 +3,10 @@
 #### DEMO
 https://course-nccu.com
 
-##### 主要功能：
+#### 報告簡報
+https://hackmd.io/@_YdT2NPxQtGdnDBoiC3yQg/ryKURTr6F
+
+#### 主要功能：
 
 1. 瀏覽/上傳/修改/刪除課程評價跟課程資源
 2. 快速查詢想要找的課程
